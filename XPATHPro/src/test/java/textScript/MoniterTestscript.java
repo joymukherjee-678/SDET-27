@@ -13,7 +13,7 @@ public class MoniterTestscript extends BaseClass{
 
 	@Test
 	public void ab() {
-	 Assert.assertEquals(true,true);
+	 Assert.assertEquals(true,false);
 	
 } 
 	
